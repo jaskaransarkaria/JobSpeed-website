@@ -1,0 +1,79 @@
+@font-face {
+    font-family: 'JobSpeed-font'; /*a name to be used later*/
+    src: url("jobspeedfont.ttf") format('truetype');
+}
+
+h1 {width: 50%;
+	overflow: auto;
+	margin-right: 5px}
+
+div {
+	margin: 5% 25%;
+	width: 50%;
+}
+
+p, h2 {
+	font-size: 25px;
+	color: white;
+}
+
+.title {
+	font-family: "JobSpeed-font";
+	font-size: 1000%;
+	color: white;
+	margin-right: 5px;
+}
+
+#icon { 
+	display: inline-block;
+	width: 100px;
+	border: 5px green solid;
+}
+
+#box {
+	border: 5px green solid;
+	width: 50%;
+}	
+
+
+/*@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+body {
+  background-color: lightBlue;
+  font-family: "Roboto", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+#imgContainer {
+  background: linear-gradient(
+      45deg,
+      #dca 12%,
+      transparent 0,
+      transparent 88%,
+      #dca 0
+    ),
+    linear-gradient(135deg, transparent 37%, #a85 0, #a85 63%, transparent 0),
+    linear-gradient(45deg, transparent 37%, #dca 0, #dca 63%, transparent 0)
+      #753;
+  background-size: 100px 100px;
+}
+
+#profileImg {
+  height: 300px;
+  border-radius: 50%;
+  position: relative;
+  left: 170px;
+  margin-top: 10px;
+}
+
+#title {
+  position: relative;
+  left: 200px;
+  background-color: rgba(255, 255, 255, 0.6);
+  width: 220px;
+  border-radius: 10px;
+  padding: 10px;
+}*/
